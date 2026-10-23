@@ -1,0 +1,13 @@
+Metric,Value
+Total Historical Sales (2022-2025),222732590.42
+Total Historical Profit (2022-2025),62185201.46
+Total Quantity Sold,19199
+Historical Records,5846
+Historical Months,48
+Forecast Months,12
+2026 Total Forecasted Sales,61445275.14
+2026 Average Monthly Forecast,5120439.6
+2026 Lowest Forecast Month,January 2026
+2026 Highest Forecast Month,December 2026
+January to December Growth,16.62
+Best Model by Test MAE,Improved Linear Regression
